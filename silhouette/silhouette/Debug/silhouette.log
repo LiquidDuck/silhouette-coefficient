@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(84): warning C4700: использована неинициализированная локальная переменная "countOfClusters"
+  silhouette.vcxproj -> C:\Users\Anna\Desktop\Study\Clustering\silhouette coefficient\silhouette\Debug\silhouette.exe
