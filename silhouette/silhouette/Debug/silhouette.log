@@ -1,4 +1,13 @@
 ﻿  Source.cpp
-c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(84): warning C4700: использована неинициализированная локальная переменная "countOfClusters"
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(183): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(211): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(216): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna\desktop\study\clustering\silhouette coefficient\silhouette\silhouette\source.cpp(226): warning C4018: <: несоответствие типов со знаком и без знака
   silhouette.vcxproj -> C:\Users\Anna\Desktop\Study\Clustering\silhouette coefficient\silhouette\Debug\silhouette.exe
